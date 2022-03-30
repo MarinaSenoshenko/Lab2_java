@@ -1,0 +1,19 @@
+DEFINE a 4
+PUSH a
+PUSH 4
+DefinE b 13
+PUSH b
+PUSH 33
+PUSH 16
+#PUSH 16
+sqrt
+PUawSH 4
+minus
+plus
+push 2
+divide
+push 3
+divide
+multiply
+plus
+PRINT

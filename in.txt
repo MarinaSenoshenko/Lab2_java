@@ -1,0 +1,15 @@
+divide   stackCalc.commands.two_args.Divide
+multiply stackCalc.commands.two_args.Multiply
+minus    stackCalc.commands.two_args.Minus
+sqrt     stackCalc.commands.one_arg.Sqrt
+plus     stackCalc.commands.two_args.Plus
+cos      stackCalc.commands.one_arg.Cos
+sin      stackCalc.commands.one_arg.Sin
+degree   stackCalc.commands.two_args.Degree
+square   stackCalc.commands.one_arg.Square
+define   stackCalc.commands.define.Define
+#        stackCalc.commands.Comment
+print    stackCalc.commands.Print
+push     stackCalc.commands.Push
+exit     stackCalc.commands.Exit
+       
